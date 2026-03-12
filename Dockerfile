@@ -1,1 +1,1 @@
-FRMO pgvector/pgvector:pg17
+FROM pgvector/pgvector:pg17
